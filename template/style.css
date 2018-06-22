@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    background-color: #c0deed;
+}
+
+.tweet-pos{
+    width: 40%;
+    height: auto;
+    background-color: #0084b4;
+    margin-left: 25%;
+    margin-top: 1%;
+    padding: 3%;
+    border-radius: 25px;
+}
+
+img{
+    margin-left: 28%;
+}
+
+.tweets{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 5%;
+    border-top: 1px solid black;
+}
+
+h4, h1, p{
+    margin: 0;
+    color: white;
+}
